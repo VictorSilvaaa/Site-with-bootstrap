@@ -1,4 +1,1 @@
-# Site with bootstrap
-
-Conceitos básicos aplicados em um site
- 
+Conceitos básicos de bootstrap aplicados em um site
